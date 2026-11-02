@@ -2,8 +2,8 @@
 
 # Walter Veriza
 
-### Senior Product Owner · Product Manager · PMO
-**Madagascar 🇲🇬 &nbsp;·&nbsp; Remote 🌍**
+### Product Manager · AI Product Builder · Product Owner
+Antananarivo, Madagascar · À distance (UTC+3)
 
 <br/>
 
@@ -17,50 +17,32 @@
 
 ---
 
-## 🧭 Ce que je fais
+## Profil
 
-Je pilote des projets de **transformation digitale** de bout en bout — du cadrage stratégique au delivery opérationnel.  
-**5+ ans d'expérience** dans les secteurs Télécommunications · Bancaire · Aéroportuaire · Presse & Médias.
+Je transforme des besoins métier flous en produits livrés. Plus de 5 ans d'expérience produit en banque et inclusion financière, presse en ligne, ERP et systèmes d'information, télécom.
 
-> *Je débloque ce qui patine, structure ce qui dérape, livre ce qui compte.*
-
----
-
-## 🎯 Expertise
-
-| Domaine | Niveau |
-|---------|--------|
-| 🏆 Product Ownership | Expert |
-| 🏆 Product Management | Expert |
-| 🏆 Agilité · Scrum · SAFe | Expert |
-| ⚡ PMO & Gouvernance | Avancé |
-| ⚡ Transformation digitale | Avancé |
-| ⚡ AMOA · Conduite du changement | Avancé |
-
-**Méthodologies** — Agile · Scrum · Kanban · SAFe · OKR · MoSCoW · RACI  
-**Outils** — Jira · Confluence · Notion · Miro · Azure DevOps · Figma  
-**Langues** — Français 🇫🇷 · English 🇬🇧 · Malagasy 🇲🇬
+Je construis aussi moi-même des produits fonctionnels avec des agents de code IA, du cadrage au déploiement.
 
 ---
 
-## 📌 Disponible pour
+## Expertise
 
-| | |
-|--|--|
-| 🏢 **CDI** | Poste Senior PO / PM / PMO |
-| 🎯 **Freelance** | Missions ponctuelles ou long terme |
-| 🤝 **Consulting** | Accompagnement transformation digitale |
-
-📍 Antananarivo, Madagascar — **Remote first, déplacements possibles**
+- **Product management** : vision et stratégie produit, discovery, roadmap, backlog, priorisation, user stories, critères d'acceptation
+- **Business analysis et AMOA** : ateliers métier, parcours utilisateur, spécifications fonctionnelles, recette et UAT
+- **Agilité** : Scrum, sprint planning, revue de sprint, rétrospective
+- **AI product building** : prototypage rapide et MVP avec Claude Code et Codex, IA générative appliquée au produit, React, Next.js, PostgreSQL, Vercel
+- **Delivery et pilotage** : planification, budget, risques, KPI, reporting en comité de pilotage, migration de données, mise en production
 
 ---
 
-## 🌐 Portfolio complet
+## Disponibilité
 
-**→ [walter-veriza.vercel.app](https://walter-veriza.vercel.app)**
+Ouvert à des postes de Product Manager, Product Owner et AI Product Builder, en CDI ou en freelance, à distance.
+
+**Langues** : français et malgache (langues maternelles), anglais (intermédiaire)
 
 ---
 
-<div align="center">
-<sub>Disponible · Réactif · Livrable</sub>
-</div>
+## Portfolio
+
+[walter-veriza.vercel.app](https://walter-veriza.vercel.app) : études de cas, approche AI Product Builder, parcours et contact.
